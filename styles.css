@@ -1,0 +1,40 @@
+body{
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url("https://media.istockphoto.com/id/1228270743/pt/foto/delivery-biker-riding-down-the-street-motoboy.jpg?s=2048x2048&w=is&k=20&c=1euEvYBaXM5xJRdUaX4Kt14j7yxi88rwNfs8foPfmxo=");
+    background-size: cover;
+    background-position: center;
+    color:white ;
+    text-align: center;
+    padding: 20px;
+}
+
+img{
+border-radius: 10px;
+
+}
+
+div{
+    background-color: rgba(0, 0, 0, 0.7);
+    width: 700px;
+    margin: 0 auto;
+    padding: 30px;
+    border-radius: 8px;
+}
+
+h2{
+    color: #4ddd24;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 50;
+}
+
+h3{
+color:#d1d0d7;
+font-family:"Jura", sans-serif;
+}
+
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 100;
+}
+
